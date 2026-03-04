@@ -1,0 +1,14 @@
+/mnt/c/Users/beenc/Desktop/MTtoCW/target/wasm32-unknown-unknown/release/deps/serde-dfb51929cfc7576b.d: /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/c/Users/beenc/Desktop/MTtoCW/target/wasm32-unknown-unknown/release/build/serde-aee9dfc8ed641999/out/private.rs
+
+/mnt/c/Users/beenc/Desktop/MTtoCW/target/wasm32-unknown-unknown/release/deps/libserde-dfb51929cfc7576b.rlib: /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/c/Users/beenc/Desktop/MTtoCW/target/wasm32-unknown-unknown/release/build/serde-aee9dfc8ed641999/out/private.rs
+
+/mnt/c/Users/beenc/Desktop/MTtoCW/target/wasm32-unknown-unknown/release/deps/libserde-dfb51929cfc7576b.rmeta: /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/c/Users/beenc/Desktop/MTtoCW/target/wasm32-unknown-unknown/release/build/serde-aee9dfc8ed641999/out/private.rs
+
+/home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/cypher/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/mnt/c/Users/beenc/Desktop/MTtoCW/target/wasm32-unknown-unknown/release/build/serde-aee9dfc8ed641999/out/private.rs:
+
+# env-dep:OUT_DIR=/mnt/c/Users/beenc/Desktop/MTtoCW/target/wasm32-unknown-unknown/release/build/serde-aee9dfc8ed641999/out

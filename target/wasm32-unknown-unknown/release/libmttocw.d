@@ -1,0 +1,1 @@
+/mnt/c/Users/beenc/Desktop/MTtoCW/target/wasm32-unknown-unknown/release/libmttocw.rlib: /mnt/c/Users/beenc/Desktop/MTtoCW/src/contract.rs /mnt/c/Users/beenc/Desktop/MTtoCW/src/error.rs /mnt/c/Users/beenc/Desktop/MTtoCW/src/lib.rs /mnt/c/Users/beenc/Desktop/MTtoCW/src/msg.rs /mnt/c/Users/beenc/Desktop/MTtoCW/src/state.rs
